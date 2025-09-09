@@ -1,0 +1,2 @@
+# thesis-data-nodes-and-edges-for-italian-manosphere-tracking-
+This repository contains the graph data behind my thesis on Italian manosphere ecosystems.It includes**nodes**(accounts, channels, communities) and **edges** (retweets, mentions, replies, quotes, hyperlinks, co-appearances), collected across **X-Reddit, with community and emotion labels to support reproducible network analysis.  ## What’s inside
